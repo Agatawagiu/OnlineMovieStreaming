@@ -21,8 +21,8 @@ body{
   font-size: 25px;
 }
 .nav-item a:hover{
-  color: orange;
-  border-bottom: 2px solid orange;
+  color: Purple;
+  border-bottom: 2px solid Purple;
 }
 
 .navbar-brand img{
@@ -36,7 +36,7 @@ body{
   background-size: cover;
   background-attachment: fixed;
   text-align: center;
-  border: 2px solid grey;
+  border: 2px solid Blue;
 }
 .container-fluid h1{
   color: white;
